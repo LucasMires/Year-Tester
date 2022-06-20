@@ -1,7 +1,4 @@
-/* function ageTester(a, b){
-    let resultadosubtracao = a - b;
-    return resultadoSoma 
-} */
+
 
 let ageTester = prompt("Qual será sua idade até o final do ano?")
 let yearAge = 2022

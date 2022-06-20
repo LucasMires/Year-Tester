@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+
+header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 52px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 25px;
+    color: #FFFFFF;    
+}
